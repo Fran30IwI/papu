@@ -1,2 +1,26 @@
-;h1 (hola)
-xD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>paputitle</title>
+    <link rel="stylesheet" href="css/papustyle.css">
+</head>
+<body>
+    <p>hola papus como van</p>
+    <h1>que onda gente de yt</h1>
+    <h2>que onda papulinces
+        <p>papuUuUUUUUUUUUuuuuuuu</p>
+    </h2>
+    <h3>que onda papes</h3>
+    <h4>y esa flash de virgo momo :v</h4>
+    <a href="https://www.youtube.com/@bananirou">el papu link</a>
+    <div>
+        <h6>el papu divisor</h6>
+    </div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ04X6Cqq0zQRm6Lnv-SAk83HKwnDDpXAAJS9B5PlxB89OIP-H3ivYq_wl_aGxLkqI5Uig&usqp=CAU" alt="12">
+
+
+      
+</body>
+</html>
