@@ -9,10 +9,19 @@ h1{
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 color: rgb(61, 55, 55);
 background-color: rgb(153, 153, 153);
+margin-bottom: 100px;
+margin-right: 180px;
+margin-left: 145px;
 }
-#papa{
+#mamu{
     color: blue;
 }
 #sexo {
     color: magenta;
+}
+body{
+    background-color: rgb(165, 164, 164);
+}
+.hiju{
+    color: rgba(199, 21, 21, 0.534);
 }
