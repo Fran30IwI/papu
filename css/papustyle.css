@@ -1,6 +1,18 @@
-h2{
+#unico{
     color: green;
 }
 p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 50px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(61, 55, 55);
+background-color: rgb(153, 153, 153);
+}
+#papa{
+    color: blue;
+}
+#sexo {
+    color: magenta;
 }
