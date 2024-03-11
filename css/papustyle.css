@@ -10,7 +10,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 color: rgb(61, 55, 55);
 background-color: rgb(153, 153, 153);
 margin-bottom: 100px;
-margin-right: 180px;
+margin-right: 250px;
 margin-left: 145px;
 }
 #mamu{
@@ -24,4 +24,16 @@ body{
 }
 .hiju{
     color: rgba(199, 21, 21, 0.534);
+}
+.mewing{
+font-size: 150px;
+}
+img{
+    font-size: 100px;
+}
+.nav-enlace{
+    background-color: rgba(75, 75, 75, 0.281);
+    color: #000000;
+    padding: 10px 30px;
+    font-family:'Times New Roman', Times, serif;
 }
