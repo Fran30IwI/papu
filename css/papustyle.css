@@ -36,4 +36,43 @@ img{
     color: #000000;
     padding: 10px 30px;
     font-family:'Times New Roman', Times, serif;
+    display: inline-block;
+}
+button{
+    background: orangered;
+    color: black;
+}
+button:hover{
+    background: rgb(70, 70, 163);
+    color: white;
+}
+button:active{
+    background-color: wheat;
+    color: black
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+.papuclass{
+    background-color: salmon;
+    color: white;
+    padding: 9px 0px;
+    border: 5px solid rgb(165, 164, 164);
+    display: none;
+    }
+@media (max-width: 600px){
+nav{
+    background: rgb(165, 164, 164);
+    flex-direction: column
+}
+.nav-enlace{
+    margin: 9px 0;
+}
+.papuclass{
+    display: inline-block;
+}
+.desaparece{
+    display: none;
+}
 }
