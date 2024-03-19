@@ -5,3 +5,4 @@ function accion(){
         accion[i].classList.toggle("desaparece")
     }
 }
+
